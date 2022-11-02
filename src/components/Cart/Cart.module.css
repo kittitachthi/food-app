@@ -15,6 +15,11 @@
   margin: 1rem 0;
 }
 
+.totalAmount {
+  font-size: 2rem;
+  color: rgb(230, 255, 252);
+}
+
 .actions {
   text-align: right;
 }

@@ -21,15 +21,16 @@
 
 .price {
   font-weight: bold;
-  color: #8a2b06;
+  font-size: 28px;
+  color: #000000;
 }
 
 .amount {
   font-weight: bold;
-  border: 2px solid rgb(253, 255, 219);
+  border: 2px solid #eeeeee;
   padding: 0.25rem 0.75rem;
   border-radius: 4px;
-  color: rgb(253, 255, 219);
+  color: #eeeeee;
 }
 
 .actions {
@@ -59,23 +60,23 @@
 }
 
 .remove {
-  color: #ff5c5c;
-  border: 2px solid #ff5c5c;
+  color: #c41411;
+  border: 2px solid #c41411;
 }
 
 .remove:hover,
 .remove:active {
-  background-color: #ff5c5c;
+  background-color: #c41411;
   color: white;
 }
 
 .add {
-  color: #3bda90;
-  border: 2px solid #3bda90;
+  color: #056f00;
+  border: 2px solid #056f00;
 }
 
 .add:hover,
 .add:active {
-  background-color: #3bda90;
+  background-color: #056f00;
   color: white;
 }
