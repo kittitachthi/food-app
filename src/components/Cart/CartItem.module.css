@@ -21,16 +21,17 @@
 
 .price {
   font-weight: bold;
-  font-size: 28px;
+  font-size: 1.1rem;
   color: #000000;
 }
 
 .amount {
   font-weight: bold;
   border: 2px solid #eeeeee;
-  padding: 0.25rem 0.75rem;
+  padding: 0.2rem 0.7rem;
   border-radius: 4px;
   color: #eeeeee;
+  align-content: center;
 }
 
 .actions {
