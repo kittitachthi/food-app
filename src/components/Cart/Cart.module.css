@@ -87,7 +87,7 @@
 .loader::after {
   content: '';
   /* color: #008eec; */
-  color: #c69749;
+  color: #dcd7c9;
   width: 100%;
   height: 100%;
   border: 16px solid currentColor;
@@ -109,7 +109,7 @@
 
 .loader:nth-child(2)::after {
   /* color: #28c9ff; */
-  color: #282a3a;
+  color: #3f4e4f;
   width: 80%;
   height: 80%;
   animation-duration: 1s;
@@ -117,7 +117,7 @@
 
 .loader:nth-child(3)::after {
   /* color: #53ffff; */
-  color: #735f32;
+  color: #a27b5c;
   width: 60%;
   height: 60%;
   animation-duration: 0.75s;
