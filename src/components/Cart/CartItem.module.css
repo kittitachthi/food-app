@@ -2,14 +2,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 2px solid #8a2b06;
+  border-bottom: 2px solid #2c3639;
   padding: 1rem 0;
   margin: 1rem 0;
 }
 
 .cart-item h2 {
   margin: 0 0 0.5rem 0;
-  color: #363636;
+  color: white;
 }
 
 .summary {
@@ -61,23 +61,25 @@
 }
 
 .remove {
-  color: #c41411;
-  border: 2px solid #c41411;
+  color: #ffb54c;
+  border: 2px solid #ffb54c;
+  transition: all 0.4s;
 }
 
 .remove:hover,
 .remove:active {
-  background-color: #c41411;
+  background-color: #ffb54c;
   color: white;
 }
 
 .add {
-  color: #056f00;
-  border: 2px solid #056f00;
+  color: #7abd7e;
+  border: 2px solid #7abd7e;
+  transition: all 0.4s;
 }
 
 .add:hover,
 .add:active {
-  background-color: #056f00;
+  background-color: #7abd7e;
   color: white;
 }
